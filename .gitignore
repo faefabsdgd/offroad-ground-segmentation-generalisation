@@ -1,0 +1,23 @@
+# Model checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# Datasets / archives
+*.zip
+*.tar
+*.tar.gz
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
